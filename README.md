@@ -1,4 +1,3 @@
-### BAEKJOON Site
+### Algorithm Study
 - - - -
-* Algorithm Study
-https://www.acmicpc.net/
+* BAEKJOON : https://www.acmicpc.net/
